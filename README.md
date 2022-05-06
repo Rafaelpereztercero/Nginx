@@ -24,7 +24,6 @@
 
 ![image](https://user-images.githubusercontent.com/91564342/167197449-49423676-0680-4ffd-a64b-704fff692d6e.png)
 
-![image](https://user-images.githubusercontent.com/91564342/167197498-eefc9c8b-7e76-4700-b2e8-bed48b2afe5f.png)
 
 ### 2DO Y 3ER VIRTUAL HOST
 
